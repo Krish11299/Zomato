@@ -1,7 +1,7 @@
 const Fooddata = [
     {
         id: 1,
-        rname: "Massala Theoryy",
+        rname: "Massala Missal",
         imgdata: "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
         address: "North Indian, Biryani, Mughlai",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -12,7 +12,7 @@ const Fooddata = [
     },
     {
         id: 2,
-        rname: "Jugaadi Adda",
+        rname: "Jugaadi Chai",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/19295245/089cbcf1d3307542c72f77272556b28b_o2_featured_v2.jpg?output-format=webp",
         address: "Street Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
